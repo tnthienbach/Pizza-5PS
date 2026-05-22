@@ -4,7 +4,7 @@
 
 * Bối cảnh
   
-  Pizza 5Ps được thành lập vào năm 2025, là một nhà hàng Pizza tại thành phố Hồ Chí Minh chuyên các món ăn Pizza. Ở thời điểm ra mắt, Pizza 5Ps có tổng cộng 32 món pizza khác    nhau và 5 kích cỡ pizza: S, M, L, XL,XXL.
+  Pizza 5Ps được thành lập vào năm 2025, là một nhà hàng Pizza tại Singapore chuyên các món ăn Pizza. Ở thời điểm ra mắt, Pizza 5Ps có tổng cộng 32 món pizza khác    nhau và 5 kích cỡ pizza: S, M, L, XL,XXL.
   
 * Mục tiêu
 
